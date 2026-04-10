@@ -1,0 +1,229 @@
+#cabecalho {
+	height: 220px;
+	background-color: #1135AB;
+	text-align: center;
+}
+
+#rodape {
+	height: 220px;
+	background-color: #1135AB;
+	text-align: center;
+	color: white;
+}
+
+#corpo {
+
+}
+
+a {
+	font-size: 40px;
+	color: white;
+	text-decoration: none;
+	padding: 10px;
+}
+
+a:hover {
+	text-decoration: underline 4px;
+}
+
+input {
+	margin: auto;
+	display: flex;
+}
+
+#email {
+	width: 400px;
+}
+
+#comen {
+	width: 400px;
+	height: 600px;
+}
+
+#textocorpo {
+	color: black;
+	text-align: center;
+	font-size: 52px;
+}
+
+#circulo1 {
+	background-color: #ff0000;
+	height: 160px;
+	width: 160px;
+	border-radius: 100%;
+	border: black solid 4px;
+	margin: auto;
+}
+
+#circulo2 {
+	background-color: #00ff00;
+	height: 160px;
+	width: 160px;
+	border-radius: 100%;
+	border: black solid 4px;
+	margin: auto;
+}
+
+#circulo3 {
+	background-color: #00ffff;
+	height: 160px;
+	width: 160px;
+	border-radius: 100%;
+	border: black solid 4px;
+	margin: auto;
+}
+
+#circulo4 {
+	background-color: #ffff00;
+	height: 160px;
+	width: 160px;
+	border-radius: 100%;
+	border: black solid 4px;
+	margin: auto;
+}
+
+#circulo5 {
+	background-color: #0000ff;
+	height: 160px;
+	width: 160px;
+	border-radius: 100%;
+	border: black solid 4px;
+	margin: auto;
+}
+
+#circulo6 {
+	background-color: #ff00ff;
+	height: 160px;
+	width: 160px;
+	border-radius: 100%;
+	border: black solid 4px;
+	margin: auto;
+}
+
+#circulo7 {
+	background-color: #00ffff;
+	height: 160px;
+	width: 160px;
+	border-radius: 100%;
+	border: black solid 4px;
+	margin: auto;
+}
+
+#circulo8 {
+	background-color: #ff00ff;
+	height: 160px;
+	width: 160px;
+	border-radius: 100%;
+	border: black solid 4px;
+	margin: auto;
+}
+
+#circulo9 {
+	background-color: #ffff00;
+	height: 160px;
+	width: 160px;
+	border-radius: 100%;
+	border: black solid 4px;
+	margin: auto;
+}
+
+#circulo10 {
+	background-color: #0000ff;
+	height: 160px;
+	width: 160px;
+	border-radius: 100%;
+	border: black solid 4px;
+	margin: auto;
+}
+
+#circulo11 {
+	background-color: #ff0000;
+	height: 160px;
+	width: 160px;
+	border-radius: 100%;
+	border: black solid 4px;
+	margin: auto;
+}
+
+#circulo12{
+	background-color: #00ff00;
+	height: 160px;
+	width: 160px;
+	border-radius: 100%;
+	border: black solid 4px;
+	margin: auto;
+}
+
+
+
+
+#circulo1:hover {
+	height: 320px;
+	width: 320px;
+	background-color: #0000ff;
+}
+
+#circulo2:hover {
+	height: 320px;
+	width: 320px;
+	background-color: #ff00ff;
+}
+
+#circulo3:hover {
+	height: 320px;
+	width: 320px;
+	background-color: #ffff00;
+}
+
+#circulo4:hover {
+	height: 320px;
+	width: 320px;
+	background-color: #0000ff;
+}
+
+#circulo5:hover {
+	height: 320px;
+	width: 320px;
+	background-color: #ff0000;
+}
+
+#circulo6:hover {
+	height: 320px;
+	width: 320px;
+	background-color: #00ff00;
+}
+
+#circulo7:hover {
+	height: 320px;
+	width: 320px;
+	background-color: #ff0000;
+}
+
+#circulo8:hover {
+	height: 320px;
+	width: 320px;
+	background-color: #00ff00;
+}
+#circulo9:hover {
+	height: 320px;
+	width: 320px;
+	background-color: #0000ff;
+}
+
+#circulo10:hover {
+	height: 320px;
+	width: 320px;
+	background-color: #ffff00;
+}
+
+#circulo11:hover {
+	height: 320px;
+	width: 320px;
+	background-color: #00ffff;
+}
+
+#circulo12:hover {
+	height: 320px;
+	width: 320px;
+	background-color: #ff00ff
+}
